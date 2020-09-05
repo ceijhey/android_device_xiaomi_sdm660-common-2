@@ -112,6 +112,8 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     liba2dpoffload \
+    libbtconfigstore \
+    libbluetooth_qti \
     libhdmiedid \
     libhfp \
     libsndmonitor
